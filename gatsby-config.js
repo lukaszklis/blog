@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Edge Case`,
     author: `Lukasz Klis`,
-    description: `A personal blog written by a Berlin-based front-end developer.`,
+    description: `A personal blog written by Lukasz Klis - a Berlin-based front-end developer.`,
     siteUrl: `https://edgecase.pl/`,
     social: {
       twitter: `lukaszklis`,
