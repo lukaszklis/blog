@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Edge Case`,
-    author: `Lukasz Klis`,
-    description: `A personal blog written by Lukasz Klis - a Berlin-based front-end developer.`,
+    author: `Łukasz Kliś`,
+    description: `A personal blog written by Łukasz Kliś - a Berlin-based front-end developer.`,
     siteUrl: `https://edgecase.pl/`,
     social: {
       twitter: `lukaszklis`,
@@ -101,7 +101,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Edge Case - written by Lukasz Klis",
+            title: "Edge Case - written by Łukasz Kliś",
           },
         ],
       },
@@ -109,7 +109,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Edge Case - written by Lukasz Klis`,
+        name: `Edge Case - written by Łukasz Kliś`,
         short_name: `Edge Case`,
         start_url: `/`,
         background_color: `#ffffff`,
