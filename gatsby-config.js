@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Edge Case`,
+    title: `Coding Frenzy`,
     author: `Łukasz Kliś`,
     description: `A personal blog written by Łukasz Kliś - a Berlin-based front-end developer.`,
-    siteUrl: `https://edgecase.pl/`,
+    siteUrl: `https://blog.lukaszklis.com/`,
     social: {
       twitter: `lukaszklis`,
     },
@@ -101,7 +101,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Edge Case - written by Łukasz Kliś",
+            title: "Coding Frenzy - written by Łukasz Kliś",
           },
         ],
       },
@@ -109,8 +109,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Edge Case - written by Łukasz Kliś`,
-        short_name: `Edge Case`,
+        name: `Coding Frenzy - written by Łukasz Kliś`,
+        short_name: `Coding Frenzy`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

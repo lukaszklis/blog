@@ -37,7 +37,7 @@
   "devDependencies": {
     "prettier": "^1.17.1"
   },
-  "homepage": "https://edgecase.pl",
+  "homepage": "https://blog.lukaszklis.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lukaszklis/blog.git"
