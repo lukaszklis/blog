@@ -39,7 +39,7 @@ function Bio() {
             />
             <p>
               Written by <strong>{author}</strong> &ndash; a developer who lives
-              and works in Berlin, Germany. Part of{" "}
+              and works in Wrocław, Poland. Part of{" "}
               <a href="https://cssconf.eu">CSSconf EU</a>,{" "}
               <a href="https://jsconf.eu">JSConf EU</a> &amp;{" "}
               <a href="https://cssclass.es">CSSclasses</a>.<br />
